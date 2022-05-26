@@ -2,7 +2,7 @@
 
 ## Ownership of web2 social media profiles verified on-chain.
 
-### This [master contract](./verified.sol) can be found live on the BSC testnet :
+### This [main contract](./verified.sol) can be found live on the BSC testnet :
 [0x894389Ab1c579E6a98fe4B99FC6c4EfaeADD0A62](https://testnet.bscscan.com/address/0x894389Ab1c579E6a98fe4B99FC6c4EfaeADD0A62)
 
 ### Disclamer
